@@ -11,7 +11,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
+    animation: FadeIn 2s;
 }
 
 #arizona{
@@ -19,7 +19,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
+    animation: FadeIn 2s;
 }
 
 #duke{
@@ -27,7 +27,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
+    animation: FadeIn 2s;
 }
 
 #houston{
@@ -35,7 +35,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
+    animation: FadeIn 2s;
 }
 
 #gonzaga{
@@ -43,7 +43,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
+    animation: FadeIn 2s;
 }
 
 #purdue{
@@ -51,6 +51,23 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    animation: FadeIn 2s;
+}
 
+.FadeIn{
+    animation: FadeIn 2s;
+}
 
+@keyframes FadeIn {
+  0% {
+    opacity: 0;
+    
+  }
+  
+  100% {
+    opacity: 1;
+    display: show;
+    
+  }
+  
 }
