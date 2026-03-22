@@ -1,0 +1,56 @@
+.col{
+    max-width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#michigan{
+    background-image: url("img/michigan.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#arizona{
+    background-image: url("img/arizona.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#duke{
+    background-image: url("img/duke.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#houston{
+    background-image: url("img/houston.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#gonzaga{
+    background-image: url("img/gonzaga.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#purdue{
+    background-image: url("img/purdue.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
